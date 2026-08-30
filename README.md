@@ -73,11 +73,11 @@ Share your forked repository link with the organizers by **August 31, 2026**!
 # 🌸 [Your Name]'s Pookalam 2026 🌸
 
 ## 👨‍💻 About Me
-- **Name:** [Your Full Name]
-- **Branch:** [Your Branch]
-- **Semester:** [Your Semester]
-- **Contact Number:** [Your Contact Number]
-- **Programming Language Used:** [Language]
+- **Name:** [Chaithanya PV]
+- **Branch:** [CSE1]
+- **Semester:** [S1]
+- **Contact Number:** [6282473260]
+- **Programming Language Used:** [HTML,CSS]
 
 ## 🎨 My Pookalam
 
